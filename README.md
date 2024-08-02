@@ -27,7 +27,7 @@ DamePelis es tu plataforma gratuita para disfrutar de un mundo infinito de pelí
 -  **Interfaz Intuitiva**: Diseñada para que encuentres lo que quieres ver en segundos.
 
  
-![Screenshot 1](https://github.com/TheNasky/DamePelis/blob/main/public/Screenshot1.png)
+![Screenshot 1](https://github.com/TheNasky/DamePelis/blob/main/public/Screenshot3.png)
 
 
 ## ¿Cómo Empezar?
